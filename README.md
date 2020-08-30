@@ -1,7 +1,7 @@
 ### Hello visitor 👋
 
 I am a software engineer@Amdocs. 
-Working on Amdocs Billing product.
+Working on Amdocs Telecom Billing product.
 
 - 🌱 I’m currently learning Java Spring Framework 
 - 👯 I’m looking to collaborate on a cool python project- Django FW
