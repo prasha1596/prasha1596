@@ -1,4 +1,8 @@
 ### Hello visitor 👋
+
+- 🌱 I’m currently learning: Spring Framework 
+- 💬 Ask me about: DSA
+- 📫 How to reach me: prasha1596@gmail.com
 <!--
 **prasha1596/prasha1596** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
